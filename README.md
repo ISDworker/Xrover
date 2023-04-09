@@ -1,4 +1,5 @@
 # Xrover
-## Obstacle-crossing rover capable of shooting VR videos
+A diy-rover capable of shooting VR videos
 
-A project for ISDN 2400.
+Just a project for ISDN 2400.
+https://www.youtube.com/watch?v=-0G5-Zo1iWw&t=19s
