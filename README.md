@@ -1,5 +1,4 @@
 # Xrover
-## A rover that can climb obstacles and shoot VR videos
+## Obstacle-crossing rover capable of shooting VR videos
 
-### actually it's just a project for a course :) 
-(ISDN2400)
+A project for ISDN 2400.
